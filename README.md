@@ -1,6 +1,1 @@
-# web
-# krongie.devgroup.gg
-# krongie.devgroup.gg
-# krongie.devgroup.gg
-# krongie.devgroup.gg
-# krongie.devgroup.gg
+# the official site
